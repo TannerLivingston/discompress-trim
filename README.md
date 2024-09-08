@@ -1,6 +1,7 @@
-# discompress
+# discompress-trim
 
 A batch script to automatically compress video and audio files to under 25MB to allow for free upload to discord.
+This fork allows the user to specify a start and stop time in the video. It will trim a clip from the target video to those times, and then do the 25MB compression for discord.
 
 ## Requirements
 
